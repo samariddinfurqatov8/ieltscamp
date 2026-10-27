@@ -1,0 +1,6 @@
+{
+  "name": "IELTS Camp — O'quv Markazi",
+  "description": "IELTS Camp o'quv markazining rasmiy veb-sayti. Ingliz tili, CEFR va Tarix kurslariga ro'yxatdan o'tish, kurslar, o'qituvchilar va administrator bilan to'g'ridan-to'g'ri bog'lanish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
